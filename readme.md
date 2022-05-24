@@ -9,6 +9,8 @@ A curated list of awesome [Archway Network](https://archway.io) resources.
 - [Development Tools](#development-tools)
   - [SDKs](#sdks)
   - [Smart Contracts](#smart-contracts)
+- [Education](#education)
+  - [Workshops](#workshops)
 
 
 ## Documentation
@@ -36,6 +38,12 @@ A curated list of awesome [Archway Network](https://archway.io) resources.
 - [Archway Contracts Examples](https://github.com/archway-network/contracts-examples) - Example smart contracts built with the starter code templates available in the [Archway Developer CLI](https://github.com/archway-network/archway-cli)
 - [Archway dApp Examples](https://github.com/archway-network/dApp-examples) - Example frontend dApps for the starter code templates available in the [Archway Developer CLI](https://github.com/archway-network/archway-cli)
 
+## Education
+
+### Workshops
+
+- [Archway Workshops](https://github.com/archway-network/workshops) - repository with demos and presentations from past workshops.
+- [Archway HackAtom VI: NFTs Workshop](https://hackmd.io/@archway-network/hackatom-nft-workshop) - NFT smart contract workshop presented during HackAtom VI.
 
 ## Contribute
 
