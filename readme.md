@@ -29,7 +29,7 @@ A curated list of awesome [Archway Network](https://archway.io) resources.
 
 #### Smart Contract Templates
 
-- [Archway Templates](https://github.com/archway-network-archway-templates) - Templates used by the [Archway Developer CLI](https://github.com/archway-network/archway-cli) to scaffold new projects
+- [Archway Templates](https://github.com/archway-network/archway-templates) - Templates used by the [Archway Developer CLI](https://github.com/archway-network/archway-cli) to scaffold new projects
 - [CW Plus](https://github.com/CosmWasm/cw-plus) - Production Quality contracts under open source licenses
 - [CW NFTs](https://github.com/CosmWasm/cw-nfts) - NFT standard & examples in the CosmWasm ecosystem
 
